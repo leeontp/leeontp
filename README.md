@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leeontp
-- 👀 I’m interested in theoretical chemistry research
+- 👀 I’m interested in theoretical and computational chemistry research
 - 🌱 I’m currently learning python, C and Wolfram Language
 
 <!---
