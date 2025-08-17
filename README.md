@@ -32,7 +32,7 @@ Welcome to my GitHub! I’m a **Chemist** passionate about applying **theoretica
 ## 📫 Let’s Connect
 - 💼 [LinkedIn] www.linkedin.com/in/juandavidmg  
 - 📧 Email: juandavid.mendezg@gmail.com
-- 🌐 *website uderconstruction*
+- 🌐 * *website under construction* *
 
 ---
 
